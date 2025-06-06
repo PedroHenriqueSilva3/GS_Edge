@@ -1,5 +1,10 @@
 🌊 HidroSafe - Não é sorte, é prevenção inteligente.
 
+Membros: 
+João Marcelo Diniz Vespa : RM564038
+Gabriel Carvalho Simões da Silva : RM563169
+Pedro Henrique da Silva :  RM566235
+
 📌 Descrição do Problema
 O Brasil enfrenta desafios graves com enchentes, que geram impactos sociais, econômicos e humanos. Segundo o Banco Mundial, o país perde anualmente cerca de R$ 8 bilhões com desastres naturais, sendo as enchentes responsáveis por mais de 60% desse valor — o equivalente a R$ 4,8 bilhões. Além dos danos materiais, há perdas humanas significativas: entre 2001 e maio de 2024, 3.522 pessoas morreram em enchentes no Brasil, com 224 mortes apenas em 2024, segundo o site Valor Econômico. As enchentes urbanas recorrentes causam perdas materiais, interrupções de serviços essenciais e colocam vidas em risco, especialmente em áreas residenciais mal preparadas. A falta de infraestrutura adequada expõe famílias à insegurança, instabilidade e prejuízos financeiros em períodos de chuva intensa.
 
